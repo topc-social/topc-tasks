@@ -90,6 +90,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 80 | 2026-10-18 | Kamal Khatwani | Work (99%) on #44: Decide: a bug report is an idea (1%), the fix is the work (99%) | 792 | provisional | https://github.com/kamal0808/topc/pull/36 |
 | 81 | 2026-10-18 | Kamal Khatwani | Idea (1%) for #47: The pot pays running costs, on a public pot ledger | 8 | provisional | https://github.com/kamal0808/topc/pull/39 |
 | 82 | 2026-10-18 | Kamal Khatwani | Work (99%) on #47: The pot pays running costs, on a public pot ledger | 792 | provisional | https://github.com/kamal0808/topc/pull/39 |
+| 83 | 2026-10-18 | Kamal Khatwani | Idea (1%) for #49: Find the paid product people hate paying for, for TOPC to build free | 30 | provisional | https://github.com/kamal0808/topc/pull/40 |
+| 84 | 2026-10-18 | Kamal Khatwani | Work (99%) on #49: Find the paid product people hate paying for, for TOPC to build free | 2,970 | provisional | https://github.com/kamal0808/topc/pull/40 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
