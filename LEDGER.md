@@ -86,6 +86,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 76 | 2026-10-16 | Kamal Khatwani | Work (99%) on #45: Backer cap: up to 15% a year (Maharashtra co-op limit) instead of 10% total | 495 | provisional | https://github.com/kamal0808/topc/pull/37 |
 | 77 | 2026-10-16 | Kamal Khatwani | Work (99%) on #46: Sell the vision: the marketing angle for TOPC and every Ideato project | 990 | provisional | https://github.com/kamal0808/topc/pull/38 |
 | 78 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #46: Sell the vision: the marketing angle for TOPC and every Ideato project | 10 | provisional | https://github.com/kamal0808/topc/pull/38 |
+| 79 | 2026-10-18 | Kamal Khatwani | Idea (1%) for #44: Decide: a bug report is an idea (1%), the fix is the work (99%) | 8 | provisional | https://github.com/kamal0808/topc/pull/36 |
+| 80 | 2026-10-18 | Kamal Khatwani | Work (99%) on #44: Decide: a bug report is an idea (1%), the fix is the work (99%) | 792 | provisional | https://github.com/kamal0808/topc/pull/36 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
