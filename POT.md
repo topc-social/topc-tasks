@@ -5,6 +5,5 @@ Money in and out of TOPC's pot. The pot is funded by Kamal (₹5,000 a month, de
 | # | Date | In / out | Who / what | ₹ | Receipt or link |
 |---|---|---|---|---|---|
 | 1 | 2026-10 | In | Kamal Khatwani, monthly pledge (October) | 5,000 | pledge: NEKI.md 2026-10-10; payment proof to add |
-| 2 | 2026-10 | Out | GitHub Pro for kamal0808 (holds Ideato's code), monthly | to add | topc-social/ideato-tasks#122; receipt to add |
 
-Balance after these rows: ₹5,000 minus GitHub Pro, once its amount and receipt are in.
+Balance after these rows: ₹5,000.
