@@ -94,6 +94,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 84 | 2026-10-18 | Kamal Khatwani | Work (99%) on #49: Find the paid product people hate paying for, for TOPC to build free | 2,970 | provisional | https://github.com/kamal0808/topc/pull/40 |
 | 85 | 2026-10-20 | Kamal Khatwani | Idea (1%) for #51: Turn TOPC agent rules into hard limits instead of reminders | 23 | provisional | https://github.com/kamal0808/topc/pull/42 |
 | 86 | 2026-10-20 | Kamal Khatwani | Work (99%) on #51: Turn TOPC agent rules into hard limits instead of reminders | 2,277 | provisional | https://github.com/kamal0808/topc/pull/42 |
+| 87 | 2026-10-20 | Kamal Khatwani | Idea (1%) for #52: Do community work houses like TOPC House already exist in India? | 30 | provisional | https://github.com/topc-social/topc-tasks/pull/53 |
+| 88 | 2026-10-20 | Kamal Khatwani | Work (99%) on #52: Do community work houses like TOPC House already exist in India? | 2,970 | provisional | https://github.com/topc-social/topc-tasks/pull/53 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
