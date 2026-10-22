@@ -98,6 +98,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 88 | 2026-10-20 | Kamal Khatwani | Work (99%) on #52: Do community work houses like TOPC House already exist in India? | 2,970 | provisional | https://github.com/topc-social/topc-tasks/pull/53 |
 | 89 | 2026-10-21 | Kamal Khatwani | Idea (1%) for topc-tasks#54: studio.topc.social: one page to take private custom software work | 23 | provisional | https://github.com/topc-social/topc-tasks/issues/54 |
 | 90 | 2026-10-21 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#54: studio.topc.social: one page to take private custom software work | 2,277 | provisional | https://github.com/kamal0808/topc/pull/44 |
+| 91 | 2026-10-22 | Kamal Khatwani | Idea (1%) for topc-tasks#60: Draft a LinkedIn post for Kamal every week from what shipped | 15 | provisional | https://github.com/topc-social/topc-tasks/issues/60 |
+| 92 | 2026-10-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#60: Draft a LinkedIn post for Kamal every week from what shipped | 1,485 | provisional | https://github.com/topc-social/topc-tasks/issues/60 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
