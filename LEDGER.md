@@ -102,6 +102,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 92 | 2026-10-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#60: Draft a LinkedIn post for Kamal every week from what shipped | 1,485 | provisional | https://github.com/topc-social/topc-tasks/issues/60 |
 | 93 | 2026-10-24 | Kamal Khatwani | Idea (1%) for topc-tasks#64: Check daily for a reply to TOPC's Reddit ban appeal | 8 | provisional | https://github.com/topc-social/topc-tasks/issues/64 |
 | 94 | 2026-10-24 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#64: Check daily for a reply to TOPC's Reddit ban appeal | 792 | provisional | https://github.com/topc-social/topc-tasks/issues/64 |
+| 95 | 2026-10-24 | Kamal Khatwani | Idea (1%) for topc-tasks#65: Pitch TOPC at a Mumbai business brunch and follow up in its group | 20 | provisional | https://github.com/topc-social/topc-tasks/issues/65 |
+| 96 | 2026-10-24 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#65: Pitch TOPC at a Mumbai business brunch and follow up in its group | 1,980 | provisional | https://github.com/topc-social/topc-tasks/issues/65 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
