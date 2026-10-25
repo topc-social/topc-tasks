@@ -114,6 +114,10 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 104 | 2026-10-25 | Kamal Khatwani | Work (99%) on #71: Who sells ads in AI app and bot wait screens, and what's empty? | 2,970 | provisional | https://github.com/topc-social/topc-tasks/pull/72 |
 | 105 | 2026-10-26 | Kamal Khatwani | Idea (1%) for #57: How do small co-working spaces in Pune make money? | 30 | provisional | https://github.com/topc-social/topc-tasks/pull/58 |
 | 106 | 2026-10-26 | Kamal Khatwani | Work (99%) on #57: How do small co-working spaces in Pune make money? | 2,970 | provisional | https://github.com/topc-social/topc-tasks/pull/58 |
+| 107 | 2026-10-26 | Kamal Khatwani | Idea (1%) for #74: Twice-daily routine that picks up TOPC items from Ramu Kaka | 8 | provisional | https://github.com/topc-social/topc-tasks/issues/74 |
+| 108 | 2026-10-26 | Kamal Khatwani | Work (99%) on #74: Twice-daily routine that picks up TOPC items from Ramu Kaka | 792 | provisional | https://github.com/topc-social/topc-tasks/issues/74 |
+| 109 | 2026-10-26 | Kamal Khatwani | Idea (1%) for #75: Decode the Instagram links Kamal sends Ramu and apply them to TOPC | 30 | provisional | https://github.com/topc-social/topc-tasks/issues/75 |
+| 110 | 2026-10-26 | Kamal Khatwani | Work (99%) on #75: Decode the Instagram links Kamal sends Ramu and apply them to TOPC | 2,970 | provisional | https://github.com/topc-social/topc-tasks/issues/75 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
