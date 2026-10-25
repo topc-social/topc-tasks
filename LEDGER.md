@@ -110,6 +110,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 100 | 2026-10-25 | Kamal Khatwani | Work (99%) on #67: Find screens where people wait and keep watching (ad spots) | 2,970 | provisional | https://github.com/topc-social/topc-tasks/pull/68 |
 | 101 | 2026-10-25 | Kamal Khatwani | Idea (1%) for #69: Can we show ads while Lovable, Bolt and v0 build? (terms + how) | 30 | provisional | https://github.com/topc-social/topc-tasks/pull/70 |
 | 102 | 2026-10-25 | Kamal Khatwani | Work (99%) on #69: Can we show ads while Lovable, Bolt and v0 build? (terms + how) | 2,970 | provisional | https://github.com/topc-social/topc-tasks/pull/70 |
+| 103 | 2026-10-25 | Kamal Khatwani | Idea (1%) for #71: Who sells ads in AI app and bot wait screens, and what's empty? | 30 | provisional | https://github.com/topc-social/topc-tasks/pull/72 |
+| 104 | 2026-10-25 | Kamal Khatwani | Work (99%) on #71: Who sells ads in AI app and bot wait screens, and what's empty? | 2,970 | provisional | https://github.com/topc-social/topc-tasks/pull/72 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
