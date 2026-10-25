@@ -124,6 +124,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 114 | 2026-10-26 | Kamal Khatwani | Work (99%) on #75: Decode the Instagram links Kamal sends Ramu and apply them to TOPC | 2,970 | provisional | https://github.com/topc-social/topc-tasks/pull/77 |
 | 115 | 2026-10-26 | Kamal Khatwani | Idea (1%) for #59: Redo the TOPC Studio landing page the way an agency would | 565 | provisional | https://github.com/kamal0808/topc/pull/47 |
 | 116 | 2026-10-26 | Kamal Khatwani | Work (99%) on #59: Redo the TOPC Studio landing page the way an agency would | 55,935 | provisional | https://github.com/kamal0808/topc/pull/47 |
+| 117 | 2026-10-26 | Kamal Khatwani | Idea (1%) for #78: Studio v2: service pages, real proof, every way to contact us, sharper copy | 190 | provisional | https://github.com/kamal0808/topc/pull/48 |
+| 118 | 2026-10-26 | Kamal Khatwani | Work (99%) on #78: Studio v2: service pages, real proof, every way to contact us, sharper copy | 18,810 | provisional | https://github.com/kamal0808/topc/pull/48 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
