@@ -128,6 +128,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 118 | 2026-10-26 | Kamal Khatwani | Work (99%) on #78: Studio v2: service pages, real proof, every way to contact us, sharper copy | 18,810 | provisional | https://github.com/kamal0808/topc/pull/48 |
 | 119 | 2026-10-26 | Kamal Khatwani | Idea (1%) for #79: Studio: The One Percent Consultancy name, our stack, support after launch | 50 | provisional | https://github.com/kamal0808/topc/pull/49 |
 | 120 | 2026-10-26 | Kamal Khatwani | Work (99%) on #79: Studio: The One Percent Consultancy name, our stack, support after launch | 4,950 | provisional | https://github.com/kamal0808/topc/pull/49 |
+| 121 | 2026-10-26 | Kamal Khatwani | Idea (1%) for #81: Studio: Book a 30-min call on the contact page | 8 | provisional | https://github.com/kamal0808/topc/pull/50 |
+| 122 | 2026-10-26 | Kamal Khatwani | Work (99%) on #81: Studio: Book a 30-min call on the contact page | 792 | provisional | https://github.com/kamal0808/topc/pull/50 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
