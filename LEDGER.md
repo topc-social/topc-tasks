@@ -134,6 +134,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 124 | 2026-10-27 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#82: Find 20 people asking for a website redesign right now | 2,970 | provisional | https://github.com/topc-social/topc-tasks/issues/82 |
 | 125 | 2026-10-27 | Kamal Khatwani | Idea (1%) for #84: Research the Neki rate card in depth: real prices, real hours, value | 210 | provisional | https://github.com/kamal0808/topc/pull/51 |
 | 126 | 2026-10-27 | Kamal Khatwani | Work (99%) on #84: Research the Neki rate card in depth: real prices, real hours, value | 20,790 | provisional | https://github.com/kamal0808/topc/pull/51 |
+| 127 | 2026-10-27 | Kamal Khatwani | Idea (1%) for #87: Stop raising a task's price when nobody picks it up | 6 | provisional | https://github.com/kamal0808/topc/pull/52 |
+| 128 | 2026-10-27 | Kamal Khatwani | Work (99%) on #87: Stop raising a task's price when nobody picks it up | 544 | provisional | https://github.com/kamal0808/topc/pull/52 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
