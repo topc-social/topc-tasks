@@ -140,6 +140,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 130 | 2026-10-27 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#90: Write TOPC Studio's listing for the Omniviah network | 544 | provisional | https://github.com/topc-social/topc-tasks/issues/90 |
 | 131 | 2026-10-27 | Kamal Khatwani | Idea (1%) for #91: Log that Founderbot is a brand of clear tools | 6 | provisional | https://github.com/kamal0808/topc/pull/54 |
 | 132 | 2026-10-27 | Kamal Khatwani | Work (99%) on #91: Log that Founderbot is a brand of clear tools | 544 | provisional | https://github.com/kamal0808/topc/pull/54 |
+| 133 | 2026-10-27 | Kamal Khatwani | Idea (1%) for #88: Write TOPC's project brief, with a Brand section | 20 | provisional | https://github.com/kamal0808/ideato/pull/151 |
+| 134 | 2026-10-27 | Kamal Khatwani | Work (99%) on #88: Write TOPC's project brief, with a Brand section | 1,980 | provisional | https://github.com/kamal0808/ideato/pull/151 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
