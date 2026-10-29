@@ -150,6 +150,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 140 | 2026-10-29 | Kamal Khatwani | Work (99%) on #94: Studio is "The One Percent Company", not "Consultancy" | 1,188 | provisional | https://github.com/kamal0808/topc/pull/56 |
 | 141 | 2026-10-30 | Kamal Khatwani | Idea (1%) for topc-tasks#95: Interim TOPC Studio logo for listings, in the Studio site's look | 18 | provisional | https://github.com/topc-social/topc-tasks/issues/95 |
 | 142 | 2026-10-30 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#95: Interim TOPC Studio logo for listings, in the Studio site's look | 1,782 | provisional | https://github.com/topc-social/topc-tasks/issues/95 |
+| 143 | 2026-10-30 | Kamal Khatwani | Idea (1%) for #96: Studio site: new logo, share image and "Built by senior engineers" | 18 | provisional | https://github.com/kamal0808/topc/pull/57 |
+| 144 | 2026-10-30 | Kamal Khatwani | Work (99%) on #96: Studio site: new logo, share image and "Built by senior engineers" | 1,732 | provisional | https://github.com/kamal0808/topc/pull/57 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
