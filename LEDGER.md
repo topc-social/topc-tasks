@@ -146,6 +146,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 136 | 2026-10-27 | Kamal Khatwani | Work (99%) on #89: Studio: founders can pay cash, or less cash plus a small stake | 1,188 | provisional | https://github.com/kamal0808/topc/pull/53 |
 | 137 | 2026-10-27 | Kamal Khatwani | Idea (1%) for topc-tasks#93: Check if a co-op can get DPIIT, and find the fastest way to it | 18 | provisional | https://github.com/topc-social/topc-tasks/issues/93 |
 | 138 | 2026-10-27 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#93: Check if a co-op can get DPIIT, and find the fastest way to it | 1,782 | provisional | https://github.com/topc-social/topc-tasks/issues/93 |
+| 139 | 2026-10-29 | Kamal Khatwani | Idea (1%) for #94: Studio is "The One Percent Company", not "Consultancy" | 12 | provisional | https://github.com/kamal0808/topc/pull/56 |
+| 140 | 2026-10-29 | Kamal Khatwani | Work (99%) on #94: Studio is "The One Percent Company", not "Consultancy" | 1,188 | provisional | https://github.com/kamal0808/topc/pull/56 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
