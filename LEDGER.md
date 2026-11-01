@@ -152,6 +152,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 142 | 2026-10-30 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#95: Interim TOPC Studio logo for listings, in the Studio site's look | 1,782 | provisional | https://github.com/topc-social/topc-tasks/issues/95 |
 | 143 | 2026-10-30 | Kamal Khatwani | Idea (1%) for #96: Studio site: new logo, share image and "Built by senior engineers" | 18 | provisional | https://github.com/kamal0808/topc/pull/57 |
 | 144 | 2026-10-30 | Kamal Khatwani | Work (99%) on #96: Studio site: new logo, share image and "Built by senior engineers" | 1,732 | provisional | https://github.com/kamal0808/topc/pull/57 |
+| 145 | 2026-11-02 | Kamal Khatwani | Idea (1%) for topc-tasks#97: Fix 5 broken domains in Vercel (Familia live, drop old Ideato ones) | 4 | provisional | https://github.com/topc-social/topc-tasks/issues/97 |
+| 146 | 2026-11-02 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#97: Fix 5 broken domains in Vercel (Familia live, drop old Ideato ones) | 346 | provisional | https://github.com/topc-social/topc-tasks/issues/97 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
