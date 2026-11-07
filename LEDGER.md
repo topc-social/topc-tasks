@@ -162,6 +162,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 152 | 2026-11-02 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#101: Daily TOPC mail sweep that lists what needs Kamal | 346 | provisional | https://github.com/topc-social/topc-tasks/issues/101 |
 | 153 | 2026-11-03 | Kamal Khatwani | Idea (1%) for #103: Build payments.topc.social: products, terms, privacy, refunds, contact | 40 | provisional | https://github.com/kamal0808/topc/pull/59 |
 | 154 | 2026-11-03 | Kamal Khatwani | Work (99%) on #103: Build payments.topc.social: products, terms, privacy, refunds, contact | 3,960 | provisional | https://github.com/kamal0808/topc/pull/59 |
+| 155 | 2026-11-07 | Kamal Khatwani | Idea (1%) for #85: Write the prompt that turns any site URL into an Awwwards-style redesign | 20 | provisional | https://github.com/kamal0808/topc/pull/55 |
+| 156 | 2026-11-07 | Kamal Khatwani | Work (99%) on #85: Write the prompt that turns any site URL into an Awwwards-style redesign | 1,980 | provisional | https://github.com/kamal0808/topc/pull/55 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
