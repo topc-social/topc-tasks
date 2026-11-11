@@ -170,6 +170,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 160 | 2026-11-08 | Kamal Khatwani | Work (99%) on #107: Add Formy to the TOPC project list | 346 | provisional | https://github.com/kamal0808/topc/pull/62 |
 | 161 | 2026-11-11 | Kamal Khatwani | Idea (1%) for topc-tasks#110: Check real usage across TOPC's projects to see what to focus on | 18 | provisional | https://github.com/topc-social/topc-tasks/issues/110 |
 | 162 | 2026-11-11 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#110: Check real usage across TOPC's projects to see what to focus on | 1,782 | provisional | https://github.com/topc-social/topc-tasks/issues/110 |
+| 163 | 2026-11-11 | Kamal Khatwani | Idea (1%) for #109: Log that all session work goes public on Ideato | 6 | provisional | https://github.com/kamal0808/topc/pull/63 |
+| 164 | 2026-11-11 | Kamal Khatwani | Work (99%) on #109: Log that all session work goes public on Ideato | 544 | provisional | https://github.com/kamal0808/topc/pull/63 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
