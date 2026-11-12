@@ -1,6 +1,6 @@
 # TOPC pot
 
-Money in and out of TOPC's pot. The pot is funded by Kamal (₹5,000 a month, decided 2026-10-10) and by anyone who backs it. It pays TOPC's running costs, Neki cash-outs and backer repayments. Rules: `ecosystem/NEKI.md` in kamal0808/topc. Every row links a receipt or the decision behind it. Backer money in gives a backer claim (money back plus up to 15% a year, from profits only), never Neki.
+Money in and out of TOPC's pot. The pot is funded by Kamal (₹5,000 a month, decided 2026-10-10) and by anyone who backs it. From November 2026 to April 2027, ₹3,000 of Kamal's ₹5,000 goes to Founderbot as a Founderbot backer claim (`founderbot-tasks` `LEDGER.md`) and ₹2,000 stays in the pot (topc-tasks#118). It pays TOPC's running costs, Neki cash-outs and backer repayments. Rules: `ecosystem/NEKI.md` in kamal0808/topc. Every row links a receipt or the decision behind it. Backer money in gives a backer claim (money back plus up to 15% a year, from profits only), never Neki.
 
 | # | Date | In / out | Who / what | ₹ | Receipt or link |
 |---|---|---|---|---|---|
