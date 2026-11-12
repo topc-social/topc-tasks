@@ -178,6 +178,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 168 | 2026-11-12 | Kamal Khatwani | Work (99%) on #105: Find where people overpay out of desperation that Kamal and Claude could serve | 2,673 | provisional | https://github.com/kamal0808/topc/pull/61 |
 | 169 | 2026-11-12 | Kamal Khatwani | Idea (1%) for #116: Put the 'finding a painkiller' session's findings on TOPC's Ideato page | 6 | provisional | https://github.com/topc-social/topc-tasks/pull/117 |
 | 170 | 2026-11-12 | Kamal Khatwani | Work (99%) on #116: Put the 'finding a painkiller' session's findings on TOPC's Ideato page | 544 | provisional | https://github.com/topc-social/topc-tasks/pull/117 |
+| 171 | 2026-11-12 | Kamal Khatwani | Idea (1%) for #114: Map who else built a fair work economy, and how to reach them | 90 | provisional | https://github.com/kamal0808/topc/pull/67 |
+| 172 | 2026-11-12 | Kamal Khatwani | Work (99%) on #114: Map who else built a fair work economy, and how to reach them | 8,910 | provisional | https://github.com/kamal0808/topc/pull/67 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
