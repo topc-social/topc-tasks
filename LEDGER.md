@@ -174,6 +174,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 164 | 2026-11-11 | Kamal Khatwani | Work (99%) on #109: Log that all session work goes public on Ideato | 544 | provisional | https://github.com/kamal0808/topc/pull/63 |
 | 165 | 2026-11-12 | Kamal Khatwani | Idea (1%) for #104: How do founders give a key hire real stake when partners won't dilute? | 18 | provisional | https://github.com/kamal0808/topc/pull/60 |
 | 166 | 2026-11-12 | Kamal Khatwani | Work (99%) on #104: How do founders give a key hire real stake when partners won't dilute? | 1,782 | provisional | https://github.com/kamal0808/topc/pull/60 |
+| 167 | 2026-11-12 | Kamal Khatwani | Idea (1%) for #105: Find where people overpay out of desperation that Kamal and Claude could serve | 27 | provisional | https://github.com/kamal0808/topc/pull/61 |
+| 168 | 2026-11-12 | Kamal Khatwani | Work (99%) on #105: Find where people overpay out of desperation that Kamal and Claude could serve | 2,673 | provisional | https://github.com/kamal0808/topc/pull/61 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
