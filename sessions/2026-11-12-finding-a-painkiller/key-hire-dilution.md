@@ -16,7 +16,7 @@ Desk memo for topc-social/topc-tasks#104, 2026-11-06. Trigger: at Billmobi the s
 
 ## What this means for the Billmobi story
 
-- Partho's 1% was close to the going rate for a hire, while 7-8% is a co-founder's ask. So he may have been a late co-founder being offered a hire's deal. Billmobi's stage and whether it had a pool aren't known here, and US benchmarks may not fit it.
+- The sales head's 1% was close to the going rate for a hire, while 7-8% is a co-founder's ask. So he may have been a late co-founder being offered a hire's deal. Billmobi's stage and whether it had a pool aren't known here, and US benchmarks may not fit it.
 - A tool can't win once partners have said no. It would have to be set up on day one, before anyone feels the pain, and people rarely pay to prevent a fight they aren't having.
 
 ## What would change this read
