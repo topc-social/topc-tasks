@@ -284,6 +284,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 274 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#241: Give the six remaining Ideato projects an idea page | 1,188 | provisional | https://github.com/topc-social/topc-tasks/issues/241 |
 | 275 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #254: List 25 'apps you didn't know' creators to feature TOPC's products | 27 | provisional | https://github.com/kamal0808/topc/pull/99 |
 | 276 | 2026-11-14 | Kamal Khatwani | Work (99%) on #254: List 25 'apps you didn't know' creators to feature TOPC's products | 2,673 | provisional | https://github.com/kamal0808/topc/pull/99 |
+| 277 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #260: CMO skill knows its queue (open issues labelled marketing) | 4 | provisional | https://github.com/kamal0808/topc/pull/102 |
+| 278 | 2026-11-14 | Kamal Khatwani | Work (99%) on #260: CMO skill knows its queue (open issues labelled marketing) | 346 | provisional | https://github.com/kamal0808/topc/pull/102 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
