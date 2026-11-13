@@ -268,6 +268,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 258 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#222: Adopt: street-interview video format + QR-menu rant for wtf | 544 | provisional | https://github.com/kamal0808/topc/pull/85 |
 | 259 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#233: Adopt: dated multi-city event-list carousel format | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/233 |
 | 260 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#233: Adopt: dated multi-city event-list carousel format | 1,188 | provisional | https://github.com/kamal0808/topc/pull/87 |
+| 261 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#227: Adopt: compatibility-quiz matching for small-group meetups | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/227 |
+| 262 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#227: Adopt: compatibility-quiz matching for small-group meetups | 544 | provisional | https://github.com/kamal0808/topc/pull/86 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
