@@ -250,6 +250,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 240 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#206: Adopt: Reverse acqui-hire explainer (idea only, no tool) | 544 | provisional | https://github.com/kamal0808/topc/pull/82 |
 | 241 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#214: Adopt: Hormozi-style tweet-over-photo IG carousel format | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/214 |
 | 242 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#214: Adopt: Hormozi-style tweet-over-photo IG carousel format | 1,188 | provisional | https://github.com/kamal0808/topc/pull/84 |
+| 243 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#210: Adopt: AI-run Instagram pipeline with a human-approval gate | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/210 |
+| 244 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#210: Adopt: AI-run Instagram pipeline with a human-approval gate | 544 | provisional | https://github.com/kamal0808/topc/pull/83 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
