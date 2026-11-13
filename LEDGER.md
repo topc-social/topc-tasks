@@ -206,6 +206,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 196 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#145: Adopt: Four ambition dimensions (speed, altitude, depth, range) | 1,188 | provisional | https://github.com/kamal0808/topc/pull/74 |
 | 197 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#179: Adopt: Sell-first funnel (gap, offer, reach, agent) for Ideato | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/179 |
 | 198 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#179: Adopt: Sell-first funnel (gap, offer, reach, agent) for Ideato | 544 | provisional | https://github.com/kamal0808/founderbot/pull/20 |
+| 199 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#209: Adopt: 19-channel traction checklist and 18-day challenge | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/209 |
+| 200 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#209: Adopt: 19-channel traction checklist and 18-day challenge | 1,188 | provisional | https://github.com/kamal0808/founderbot/pull/25 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
