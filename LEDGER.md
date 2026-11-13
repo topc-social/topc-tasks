@@ -210,6 +210,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 200 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#209: Adopt: 19-channel traction checklist and 18-day challenge | 1,188 | provisional | https://github.com/kamal0808/founderbot/pull/25 |
 | 201 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#202: Adopt: Claude Ads, an open-source ad-ops skill for solo founders | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/202 |
 | 202 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#202: Adopt: Claude Ads, an open-source ad-ops skill for solo founders | 544 | provisional | https://github.com/kamal0808/founderbot/pull/24 |
+| 203 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#165: Adopt: Earth-cake 'your share' explainer format | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/165 |
+| 204 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#165: Adopt: Earth-cake 'your share' explainer format | 1,188 | provisional | https://github.com/kamal0808/topc/pull/77 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
