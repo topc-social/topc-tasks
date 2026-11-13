@@ -244,6 +244,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 234 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#195: Adopt: Accent-colour palette rule for TOPC UI design | 544 | provisional | https://github.com/kamal0808/topc/pull/81 |
 | 235 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#157: Adopt: Home Page vs Service Page checklist for TOPC sites | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/157 |
 | 236 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#157: Adopt: Home Page vs Service Page checklist for TOPC sites | 544 | provisional | https://github.com/kamal0808/topc/pull/76 |
+| 237 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#216: Adopt: Claude-powered LinkedIn strategy/interview skill (like hattip-linkedin-os) | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/216 |
+| 238 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#216: Adopt: Claude-powered LinkedIn strategy/interview skill (like hattip-linkedin-os) | 544 | provisional | https://github.com/kamal0808/topc/pull/84 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
