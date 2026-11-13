@@ -226,6 +226,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 216 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#171: Adopt: Obscura, an open-source Rust browser for AI agents | 1,188 | provisional | https://github.com/kamal0808/topc/pull/78 |
 | 217 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#237: Adopt: 20-platform list for freelance/agency client outreach | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/237 |
 | 218 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#237: Adopt: 20-platform list for freelance/agency client outreach | 544 | provisional | https://github.com/kamal0808/founderbot/pull/29 |
+| 219 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#152: Adopt: one-prompt AI reel system (Claude Code to rendered video) | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/152 |
+| 220 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#152: Adopt: one-prompt AI reel system (Claude Code to rendered video) | 544 | provisional | https://github.com/kamal0808/topc/pull/75 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
