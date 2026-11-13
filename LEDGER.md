@@ -202,6 +202,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 192 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#181: Adopt: Find startup ideas by asking what a platform is missing | 544 | provisional | https://github.com/kamal0808/founderbot/pull/20 |
 | 193 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#150: Adopt: Claude skill that renders reels as code (no video credits) | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/150 |
 | 194 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#150: Adopt: Claude skill that renders reels as code (no video credits) | 544 | provisional | https://github.com/kamal0808/topc/pull/75 |
+| 195 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#145: Adopt: Four ambition dimensions (speed, altitude, depth, range) | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/145 |
+| 196 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#145: Adopt: Four ambition dimensions (speed, altitude, depth, range) | 1,188 | provisional | https://github.com/kamal0808/topc/pull/74 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
