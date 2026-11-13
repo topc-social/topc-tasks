@@ -260,6 +260,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 250 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#213: Adopt: 18 'sell X to Y' audience-to-motive pairs for TOPC copy | 544 | provisional | https://github.com/kamal0808/topc/pull/83 |
 | 251 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#234: Adopt: a copywriting checklist of 9 storytelling swaps | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/234 |
 | 252 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#234: Adopt: a copywriting checklist of 9 storytelling swaps | 1,188 | provisional | https://github.com/kamal0808/topc/pull/87 |
+| 253 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#230: Adopt: equity-free startup grants list for TOPC/Kamal | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/230 |
+| 254 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#230: Adopt: equity-free startup grants list for TOPC/Kamal | 1,188 | provisional | https://github.com/kamal0808/topc/pull/86 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
