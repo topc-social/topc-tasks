@@ -214,6 +214,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 204 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#165: Adopt: Earth-cake 'your share' explainer format | 1,188 | provisional | https://github.com/kamal0808/topc/pull/77 |
 | 205 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#225: Adopt: narrow-customer-first + manual-first-10 GTM checklist | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/225 |
 | 206 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#225: Adopt: narrow-customer-first + manual-first-10 GTM checklist | 544 | provisional | https://github.com/kamal0808/founderbot/pull/27 |
+| 207 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#183: Adopt: Mesa's three-part model (cases, live projects, build) | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/183 |
+| 208 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#183: Adopt: Mesa's three-part model (cases, live projects, build) | 544 | provisional | https://github.com/kamal0808/topc/pull/79 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
