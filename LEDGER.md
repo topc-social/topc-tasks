@@ -198,6 +198,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 188 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#178: Adopt: free tools as acquisition assets (marketing engineering) | 544 | provisional | https://github.com/kamal0808/founderbot/pull/20 |
 | 189 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #136: Adopt: /awwwards skill for award-style sites from one line | 6 | provisional | https://github.com/kamal0808/topc/pull/89 |
 | 190 | 2026-11-13 | Kamal Khatwani | Work (99%) on #136: Adopt: /awwwards skill for award-style sites from one line | 544 | provisional | https://github.com/kamal0808/topc/pull/89 |
+| 191 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#181: Adopt: Find startup ideas by asking what a platform is missing | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/181 |
+| 192 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#181: Adopt: Find startup ideas by asking what a platform is missing | 544 | provisional | https://github.com/kamal0808/founderbot/pull/20 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
