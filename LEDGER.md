@@ -270,6 +270,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 260 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#233: Adopt: dated multi-city event-list carousel format | 1,188 | provisional | https://github.com/kamal0808/topc/pull/87 |
 | 261 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#227: Adopt: compatibility-quiz matching for small-group meetups | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/227 |
 | 262 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#227: Adopt: compatibility-quiz matching for small-group meetups | 544 | provisional | https://github.com/kamal0808/topc/pull/86 |
+| 263 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#238: Adopt: 7-step viral-funnel checklist for Ideato onboarding | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/238 |
+| 264 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#238: Adopt: 7-step viral-funnel checklist for Ideato onboarding | 1,188 | provisional | https://github.com/kamal0808/topc/pull/88 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
