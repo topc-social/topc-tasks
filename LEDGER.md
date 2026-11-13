@@ -182,6 +182,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 172 | 2026-11-12 | Kamal Khatwani | Work (99%) on #114: Map who else built a fair work economy, and how to reach them | 8,910 | provisional | https://github.com/kamal0808/topc/pull/67 |
 | 173 | 2026-11-12 | Kamal Khatwani | Idea (1%) for #118: Book Kamal's ₹3,000/month backing of Founderbot | 6 | provisional | https://github.com/topc-social/topc-tasks/pull/119 |
 | 174 | 2026-11-12 | Kamal Khatwani | Work (99%) on #118: Book Kamal's ₹3,000/month backing of Founderbot | 544 | provisional | https://github.com/topc-social/topc-tasks/pull/119 |
+| 175 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #115: Decision: use open source first in every TOPC project, and give back | 6 | provisional | https://github.com/kamal0808/topc/pull/68 |
+| 176 | 2026-11-13 | Kamal Khatwani | Work (99%) on #115: Decision: use open source first in every TOPC project, and give back | 544 | provisional | https://github.com/kamal0808/topc/pull/68 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
