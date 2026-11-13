@@ -264,6 +264,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 254 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#230: Adopt: equity-free startup grants list for TOPC/Kamal | 1,188 | provisional | https://github.com/kamal0808/topc/pull/86 |
 | 255 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#203: Adopt: 7 selling-psychology principles as a TOPC copy checklist | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/203 |
 | 256 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#203: Adopt: 7 selling-psychology principles as a TOPC copy checklist | 1,188 | provisional | https://github.com/kamal0808/topc/pull/82 |
+| 257 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#222: Adopt: street-interview video format + QR-menu rant for wtf | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/222 |
+| 258 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#222: Adopt: street-interview video format + QR-menu rant for wtf | 544 | provisional | https://github.com/kamal0808/topc/pull/85 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
