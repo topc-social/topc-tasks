@@ -280,6 +280,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 270 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#239: Give TOPC's Ideato project an idea page so it can take comments | 544 | provisional | https://github.com/topc-social/topc-tasks/issues/239 |
 | 271 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #240: Record that private projects keep Neki too | 6 | provisional | https://github.com/kamal0808/topc/pull/90 |
 | 272 | 2026-11-13 | Kamal Khatwani | Work (99%) on #240: Record that private projects keep Neki too | 544 | provisional | https://github.com/kamal0808/topc/pull/90 |
+| 273 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#241: Give the six remaining Ideato projects an idea page | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/241 |
+| 274 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#241: Give the six remaining Ideato projects an idea page | 1,188 | provisional | https://github.com/topc-social/topc-tasks/issues/241 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
