@@ -184,6 +184,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 174 | 2026-11-12 | Kamal Khatwani | Work (99%) on #118: Book Kamal's ₹3,000/month backing of Founderbot | 544 | provisional | https://github.com/topc-social/topc-tasks/pull/119 |
 | 175 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #115: Decision: use open source first in every TOPC project, and give back | 6 | provisional | https://github.com/kamal0808/topc/pull/68 |
 | 176 | 2026-11-13 | Kamal Khatwani | Work (99%) on #115: Decision: use open source first in every TOPC project, and give back | 544 | provisional | https://github.com/kamal0808/topc/pull/68 |
+| 177 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#208: Check whether a new TOPC Slack member is a bot | 8 | provisional | https://github.com/topc-social/topc-tasks/issues/208 |
+| 178 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#208: Check whether a new TOPC Slack member is a bot | 792 | provisional | https://github.com/topc-social/topc-tasks/issues/208 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
