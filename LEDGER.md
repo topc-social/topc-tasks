@@ -236,6 +236,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 226 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#194: Adopt: "challenge an assumption" framing for TOPC positioning | 544 | provisional | https://github.com/kamal0808/topc/pull/80 |
 | 227 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#197: Adopt: ThinkRail, per-task git worktrees and living SPEC.md | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/197 |
 | 228 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#197: Adopt: ThinkRail, per-task git worktrees and living SPEC.md | 544 | provisional | https://github.com/kamal0808/topc/pull/81 |
+| 229 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#199: Adopt: Locket's home-screen, invite and UGC growth loop | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/199 |
+| 230 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#199: Adopt: Locket's home-screen, invite and UGC growth loop | 1,188 | provisional | https://github.com/kamal0808/founderbot/pull/23 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
