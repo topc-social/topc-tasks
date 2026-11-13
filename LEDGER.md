@@ -194,6 +194,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 184 | 2026-11-13 | Kamal Khatwani | Work (99%) on #121: Adopt: 100 founder movies and series as a weekly case-study list | 544 | provisional | https://github.com/kamal0808/topc/pull/89 |
 | 185 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #122: Adopt: Goal + deadline + plan + action ladder for TOPC projects | 6 | provisional | https://github.com/kamal0808/topc/pull/89 |
 | 186 | 2026-11-13 | Kamal Khatwani | Work (99%) on #122: Adopt: Goal + deadline + plan + action ladder for TOPC projects | 544 | provisional | https://github.com/kamal0808/topc/pull/89 |
+| 187 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#178: Adopt: free tools as acquisition assets (marketing engineering) | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/178 |
+| 188 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#178: Adopt: free tools as acquisition assets (marketing engineering) | 544 | provisional | https://github.com/kamal0808/founderbot/pull/20 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
