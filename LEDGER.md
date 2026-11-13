@@ -218,6 +218,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 208 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#183: Adopt: Mesa's three-part model (cases, live projects, build) | 544 | provisional | https://github.com/kamal0808/topc/pull/79 |
 | 209 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#190: Adopt: 7 copywriting formulas (PAS, AIDA, BAB...) as a skill | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/190 |
 | 210 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#190: Adopt: 7 copywriting formulas (PAS, AIDA, BAB...) as a skill | 1,188 | provisional | https://github.com/kamal0808/topc/pull/80 |
+| 211 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#189: Adopt: Security-deposit escrow for India (Rhino-style) | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/189 |
+| 212 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#189: Adopt: Security-deposit escrow for India (Rhino-style) | 544 | provisional | https://github.com/kamal0808/founderbot/pull/22 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
