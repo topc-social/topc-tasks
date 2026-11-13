@@ -256,6 +256,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 246 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#220: Adopt: 6-part cold-email structure + do/skip templates | 1,188 | provisional | https://github.com/kamal0808/topc/pull/85 |
 | 247 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#211: Adopt: 40 LinkedIn post types checklist for TOPC posting | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/211 |
 | 248 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#211: Adopt: 40 LinkedIn post types checklist for TOPC posting | 1,188 | provisional | https://github.com/kamal0808/topc/pull/83 |
+| 249 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#213: Adopt: 18 'sell X to Y' audience-to-motive pairs for TOPC copy | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/213 |
+| 250 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#213: Adopt: 18 'sell X to Y' audience-to-motive pairs for TOPC copy | 544 | provisional | https://github.com/kamal0808/topc/pull/83 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
