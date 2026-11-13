@@ -232,6 +232,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 222 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#198: Adopt: Hook/caption writing via a viral-video-watching agent | 544 | provisional | https://github.com/kamal0808/topc/pull/81 |
 | 223 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#196: Adopt: Purpose-first content map (format → intent) for TOPC posts | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/196 |
 | 224 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#196: Adopt: Purpose-first content map (format → intent) for TOPC posts | 544 | provisional | https://github.com/kamal0808/topc/pull/81 |
+| 225 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#194: Adopt: "challenge an assumption" framing for TOPC positioning | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/194 |
+| 226 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#194: Adopt: "challenge an assumption" framing for TOPC positioning | 544 | provisional | https://github.com/kamal0808/topc/pull/80 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
