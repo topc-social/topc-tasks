@@ -190,6 +190,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 180 | 2026-11-13 | Kamal Khatwani | Work (99%) on #131: Adopt: 40 LinkedIn post types checklist for TOPC posting | 1,188 | provisional | https://github.com/kamal0808/topc/pull/89 |
 | 181 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #149: Adopt: Fill-in-the-blank negative hook templates for videos | 12 | provisional | https://github.com/kamal0808/topc/pull/89 |
 | 182 | 2026-11-13 | Kamal Khatwani | Work (99%) on #149: Adopt: Fill-in-the-blank negative hook templates for videos | 1,188 | provisional | https://github.com/kamal0808/topc/pull/89 |
+| 183 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #121: Adopt: 100 founder movies and series as a weekly case-study list | 6 | provisional | https://github.com/kamal0808/topc/pull/89 |
+| 184 | 2026-11-13 | Kamal Khatwani | Work (99%) on #121: Adopt: 100 founder movies and series as a weekly case-study list | 544 | provisional | https://github.com/kamal0808/topc/pull/89 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
