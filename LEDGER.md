@@ -272,6 +272,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 262 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#227: Adopt: compatibility-quiz matching for small-group meetups | 544 | provisional | https://github.com/kamal0808/topc/pull/86 |
 | 263 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#238: Adopt: 7-step viral-funnel checklist for Ideato onboarding | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/238 |
 | 264 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#238: Adopt: 7-step viral-funnel checklist for Ideato onboarding | 1,188 | provisional | https://github.com/kamal0808/topc/pull/88 |
+| 265 | 2026-11-13 | Kamal Khatwani | Idea (1%) for topc-tasks#226: Adopt: check Peachscore accelerator for TOPC/grants fit | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/226 |
+| 266 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#226: Adopt: check Peachscore accelerator for TOPC/grants fit | 1,188 | provisional | https://github.com/kamal0808/topc/pull/86 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
