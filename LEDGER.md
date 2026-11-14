@@ -298,6 +298,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 288 | 2026-11-14 | Kamal Khatwani | Work (99%) on #266: Check the brain still works when Basic Memory searches it | 792 | provisional | https://github.com/kamal0808/topc/pull/100 |
 | 289 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #268: Put TOPC's brain live and back it up | 4 | provisional | https://github.com/kamal0808/topc/pull/106 |
 | 290 | 2026-11-14 | Kamal Khatwani | Work (99%) on #268: Put TOPC's brain live and back it up | 346 | provisional | https://github.com/kamal0808/topc/pull/106 |
+| 291 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #242: Pick how TOPC, Ramu and Ideato each get their own memory brain | 90 | provisional | https://github.com/kamal0808/topc/pull/91 |
+| 292 | 2026-11-14 | Kamal Khatwani | Work (99%) on #242: Pick how TOPC, Ramu and Ideato each get their own memory brain | 8,910 | provisional | https://github.com/kamal0808/topc/pull/91 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
