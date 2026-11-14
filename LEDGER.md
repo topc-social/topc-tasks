@@ -304,6 +304,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 294 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#243: Give TOPC a brain you can ask, starting with its decisions | 2,673 | provisional | https://github.com/topc-social/topc-tasks/issues/243 |
 | 295 | 2026-11-14 | Kamal Khatwani | Idea (1%) for topc-tasks#280: Fill TOPC's brain with everything TOPC already knows | 40 | provisional | https://github.com/topc-social/topc-tasks/issues/280 |
 | 296 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#280: Fill TOPC's brain with everything TOPC already knows | 3,960 | provisional | https://github.com/topc-social/topc-tasks/issues/280 |
+| 297 | 2026-11-14 | Kamal Khatwani | Idea (1%) for topc-tasks#269: A checked shortlist of 10 impact investors for TOPC | 18 | provisional | https://github.com/topc-social/topc-tasks/issues/269 |
+| 298 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#269: A checked shortlist of 10 impact investors for TOPC | 1,782 | provisional | https://github.com/kamal0808/topc/pull/113 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
