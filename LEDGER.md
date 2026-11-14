@@ -310,6 +310,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 300 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#285: A checked list of Pune founder groups on Facebook for TOPC | 1,782 | provisional | https://github.com/topc-social/topc-tasks/issues/285 |
 | 301 | 2026-11-14 | Kamal Khatwani | Idea (1%) for topc-tasks#284: Fill TOPC's brain with everything from past chats and sources | 90 | provisional | https://github.com/topc-social/topc-tasks/issues/284 |
 | 302 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#284: Fill TOPC's brain with everything from past chats and sources | 8,910 | provisional | https://github.com/topc-social/topc-tasks/issues/284 |
+| 303 | 2026-11-14 | Kamal Khatwani | Idea (1%) for topc-tasks#287: Run TOPC's brain on the mini, viewable in a browser, and clean it | 40 | provisional | https://github.com/topc-social/topc-tasks/issues/287 |
+| 304 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#287: Run TOPC's brain on the mini, viewable in a browser, and clean it | 3,960 | provisional | https://github.com/topc-social/topc-tasks/issues/287 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
