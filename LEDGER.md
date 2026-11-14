@@ -294,6 +294,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 284 | 2026-11-14 | Kamal Khatwani | Work (99%) on #265: Every TOPC brain runs on Basic Memory, with a skill for writing facts | 792 | provisional | https://github.com/kamal0808/topc/pull/105 |
 | 285 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #263: Stop the LLM brain replacing facts about different things | 8 | provisional | https://github.com/kamal0808/topc/pull/100 |
 | 286 | 2026-11-14 | Kamal Khatwani | Work (99%) on #263: Stop the LLM brain replacing facts about different things | 792 | provisional | https://github.com/kamal0808/topc/pull/100 |
+| 287 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #266: Check the brain still works when Basic Memory searches it | 8 | provisional | https://github.com/kamal0808/topc/pull/100 |
+| 288 | 2026-11-14 | Kamal Khatwani | Work (99%) on #266: Check the brain still works when Basic Memory searches it | 792 | provisional | https://github.com/kamal0808/topc/pull/100 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
