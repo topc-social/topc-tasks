@@ -288,6 +288,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 278 | 2026-11-14 | Kamal Khatwani | Work (99%) on #260: CMO skill knows its queue (open issues labelled marketing) | 346 | provisional | https://github.com/kamal0808/topc/pull/102 |
 | 279 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #251: Test the LLM brain idea against the best memory systems | 48 | provisional | https://github.com/kamal0808/topc/pull/100 |
 | 280 | 2026-11-14 | Kamal Khatwani | Work (99%) on #251: Test the LLM brain idea against the best memory systems | 4,752 | provisional | https://github.com/kamal0808/topc/pull/100 |
+| 281 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #259: Score the LLM brain on all 78 LongMemEval update questions | 18 | provisional | https://github.com/kamal0808/topc/pull/100 |
+| 282 | 2026-11-14 | Kamal Khatwani | Work (99%) on #259: Score the LLM brain on all 78 LongMemEval update questions | 1,782 | provisional | https://github.com/kamal0808/topc/pull/100 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
