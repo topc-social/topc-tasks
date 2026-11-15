@@ -328,6 +328,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 318 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#296: TOPC's CMO works on its own from a marketing queue | 8,910 | provisional | https://github.com/topc-social/topc-tasks/issues/296 |
 | 319 | 2026-11-15 | Kamal Khatwani | Idea (1%) for topc-tasks#300: CMO plans its own campaigns | 8 | provisional | https://github.com/topc-social/topc-tasks/issues/300 |
 | 320 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#300: CMO plans its own campaigns | 792 | provisional | https://github.com/topc-social/topc-tasks/issues/300 |
+| 321 | 2026-11-15 | Kamal Khatwani | Idea (1%) for topc-tasks#295: LinkedIn post: brain is the new database | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/295 |
+| 322 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#295: LinkedIn post: brain is the new database | 544 | provisional | https://github.com/topc-social/topc-tasks/issues/295 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
