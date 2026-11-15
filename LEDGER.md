@@ -326,6 +326,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 316 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#264: Give TOPC's marketing a fact file, a slop check and a second-opinion checker | 2,673 | provisional | https://github.com/kamal0808/topc/pull/104 |
 | 317 | 2026-11-15 | Kamal Khatwani | Idea (1%) for topc-tasks#296: TOPC's CMO works on its own from a marketing queue | 90 | provisional | https://github.com/topc-social/topc-tasks/issues/296 |
 | 318 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#296: TOPC's CMO works on its own from a marketing queue | 8,910 | provisional | https://github.com/topc-social/topc-tasks/issues/296 |
+| 319 | 2026-11-15 | Kamal Khatwani | Idea (1%) for topc-tasks#300: CMO plans its own campaigns | 8 | provisional | https://github.com/topc-social/topc-tasks/issues/300 |
+| 320 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#300: CMO plans its own campaigns | 792 | provisional | https://github.com/topc-social/topc-tasks/issues/300 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
