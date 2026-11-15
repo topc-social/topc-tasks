@@ -338,6 +338,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 328 | 2026-11-16 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#307: TOPC Studio: find open UN/NGO software tenders and what UNGM vendor registration needs | 792 | provisional | https://github.com/topc-social/topc-tasks/issues/307 |
 | 329 | 2026-11-16 | Kamal Khatwani | Idea (1%) for topc-tasks#309: Map who pays for ideas to be built, and tools that prove demand | 40 | provisional | https://github.com/topc-social/topc-tasks/issues/309 |
 | 330 | 2026-11-16 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#309: Map who pays for ideas to be built, and tools that prove demand | 3,960 | provisional | https://github.com/kamal0808/topc/pull/134 |
+| 331 | 2026-11-16 | Kamal Khatwani | Idea (1%) for topc-tasks#299: Record decision: TOPC ventures can choose any working form | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/299 |
+| 332 | 2026-11-16 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#299: Record decision: TOPC ventures can choose any working form | 544 | provisional | https://github.com/kamal0808/topc/pull/125 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
