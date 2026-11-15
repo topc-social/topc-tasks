@@ -322,6 +322,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 312 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#294: A TOPC CMO agent any session can call | 346 | provisional | https://github.com/topc-social/topc-tasks/issues/294 |
 | 313 | 2026-11-15 | Kamal Khatwani | Idea (1%) for topc-tasks#293: Find out if people would pay for a ready-made AI memory (brain) | 60 | provisional | https://github.com/topc-social/topc-tasks/issues/293 |
 | 314 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#293: Find out if people would pay for a ready-made AI memory (brain) | 5,940 | provisional | https://github.com/kamal0808/topc/pull/121 |
+| 315 | 2026-11-15 | Kamal Khatwani | Idea (1%) for topc-tasks#264: Give TOPC's marketing a fact file, a slop check and a second-opinion checker | 27 | provisional | https://github.com/topc-social/topc-tasks/issues/264 |
+| 316 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#264: Give TOPC's marketing a fact file, a slop check and a second-opinion checker | 2,673 | provisional | https://github.com/kamal0808/topc/pull/104 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
