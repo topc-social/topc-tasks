@@ -334,6 +334,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 324 | 2026-11-16 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#305: Pick an open-source tool to run TOPC's team of AI agents | 3,960 | provisional | https://github.com/topc-social/topc-tasks/issues/305 |
 | 325 | 2026-11-16 | Kamal Khatwani | Idea (1%) for topc-tasks#306: A Chief of Staff agent and /mail to work Kamal's inbox in Claude | 27 | provisional | https://github.com/topc-social/topc-tasks/issues/306 |
 | 326 | 2026-11-16 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#306: A Chief of Staff agent and /mail to work Kamal's inbox in Claude | 2,673 | provisional | https://github.com/topc-social/topc-tasks/issues/306 |
+| 327 | 2026-11-16 | Kamal Khatwani | Idea (1%) for topc-tasks#307: TOPC Studio: find open UN/NGO software tenders and what UNGM vendor registration needs | 8 | provisional | https://github.com/topc-social/topc-tasks/issues/307 |
+| 328 | 2026-11-16 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#307: TOPC Studio: find open UN/NGO software tenders and what UNGM vendor registration needs | 792 | provisional | https://github.com/topc-social/topc-tasks/issues/307 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
