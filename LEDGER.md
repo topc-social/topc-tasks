@@ -332,6 +332,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 322 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#295: LinkedIn post: brain is the new database | 544 | provisional | https://github.com/topc-social/topc-tasks/issues/295 |
 | 323 | 2026-11-16 | Kamal Khatwani | Idea (1%) for topc-tasks#305: Pick an open-source tool to run TOPC's team of AI agents | 40 | provisional | https://github.com/topc-social/topc-tasks/issues/305 |
 | 324 | 2026-11-16 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#305: Pick an open-source tool to run TOPC's team of AI agents | 3,960 | provisional | https://github.com/topc-social/topc-tasks/issues/305 |
+| 325 | 2026-11-16 | Kamal Khatwani | Idea (1%) for topc-tasks#306: A Chief of Staff agent and /mail to work Kamal's inbox in Claude | 27 | provisional | https://github.com/topc-social/topc-tasks/issues/306 |
+| 326 | 2026-11-16 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#306: A Chief of Staff agent and /mail to work Kamal's inbox in Claude | 2,673 | provisional | https://github.com/topc-social/topc-tasks/issues/306 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
