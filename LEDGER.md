@@ -314,6 +314,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 304 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#287: Run TOPC's brain on the mini, viewable in a browser, and clean it | 3,960 | provisional | https://github.com/topc-social/topc-tasks/issues/287 |
 | 305 | 2026-11-14 | Kamal Khatwani | Idea (1%) for topc-tasks#286: Compare cloud credit programmes to host Ideato (Azure alternatives) | 60 | provisional | https://github.com/topc-social/topc-tasks/issues/286 |
 | 306 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#286: Compare cloud credit programmes to host Ideato (Azure alternatives) | 5,940 | provisional | https://github.com/topc-social/topc-tasks/issues/286 |
+| 307 | 2026-11-15 | Kamal Khatwani | Idea (1%) for topc-tasks#291: Fill TOPC's brain from reels, Ideato, task comments, Gmail and Drive | 40 | provisional | https://github.com/topc-social/topc-tasks/issues/291 |
+| 308 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#291: Fill TOPC's brain from reels, Ideato, task comments, Gmail and Drive | 3,960 | provisional | https://github.com/topc-social/topc-tasks/issues/291 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
