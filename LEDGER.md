@@ -318,6 +318,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 308 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#291: Fill TOPC's brain from reels, Ideato, task comments, Gmail and Drive | 3,960 | provisional | https://github.com/topc-social/topc-tasks/issues/291 |
 | 309 | 2026-11-15 | Kamal Khatwani | Idea (1%) for topc-tasks#292: Every TOPC session asks the brain before grepping docs | 4 | provisional | https://github.com/topc-social/topc-tasks/issues/292 |
 | 310 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#292: Every TOPC session asks the brain before grepping docs | 346 | provisional | https://github.com/topc-social/topc-tasks/issues/292 |
+| 311 | 2026-11-15 | Kamal Khatwani | Idea (1%) for topc-tasks#294: A TOPC CMO agent any session can call | 4 | provisional | https://github.com/topc-social/topc-tasks/issues/294 |
+| 312 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#294: A TOPC CMO agent any session can call | 346 | provisional | https://github.com/topc-social/topc-tasks/issues/294 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
