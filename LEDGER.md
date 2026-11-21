@@ -344,6 +344,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 334 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#322: Use the Galaxy Watch as the Mac's microphone (Ramu Kaka watch app) | 3,960 | provisional | https://github.com/kamal0808/ramu-kaka/pull/9 |
 | 335 | 2026-11-21 | Kamal Khatwani | Idea (1%) for topc-tasks#319: Compare Wispr Flow with Indian/Hinglish dictation apps | 60 | provisional | https://github.com/topc-social/topc-tasks/issues/319 |
 | 336 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#319: Compare Wispr Flow with Indian/Hinglish dictation apps | 5,940 | provisional | https://github.com/kamal0808/topc/pull/140 |
+| 337 | 2026-11-21 | Kamal Khatwani | Idea (1%) for topc-tasks#327: Watch mic starts listening as soon as the app opens | 8 | provisional | https://github.com/topc-social/topc-tasks/issues/327 |
+| 338 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#327: Watch mic starts listening as soon as the app opens | 792 | provisional | https://github.com/kamal0808/ramu-kaka/pull/10 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
