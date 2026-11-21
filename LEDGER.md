@@ -348,6 +348,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 338 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#327: Watch mic starts listening as soon as the app opens | 792 | provisional | https://github.com/kamal0808/ramu-kaka/pull/10 |
 | 339 | 2026-11-21 | Kamal Khatwani | Idea (1%) for topc-tasks#329: Try Tailscale on the Galaxy Watch so the watch mic works away from Wi-Fi | 8 | provisional | https://github.com/topc-social/topc-tasks/issues/329 |
 | 340 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#329: Try Tailscale on the Galaxy Watch so the watch mic works away from Wi-Fi | 792 | provisional | https://github.com/topc-social/topc-tasks/issues/329 |
+| 341 | 2026-11-21 | Kamal Khatwani | Idea (1%) for topc-tasks#330: Do dictation apps learn your contacts' names automatically? | 8 | provisional | https://github.com/topc-social/topc-tasks/issues/330 |
+| 342 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#330: Do dictation apps learn your contacts' names automatically? | 792 | provisional | https://github.com/topc-social/topc-tasks/issues/330 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
