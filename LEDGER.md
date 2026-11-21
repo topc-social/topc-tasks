@@ -350,6 +350,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 340 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#329: Try Tailscale on the Galaxy Watch so the watch mic works away from Wi-Fi | 792 | provisional | https://github.com/topc-social/topc-tasks/issues/329 |
 | 341 | 2026-11-21 | Kamal Khatwani | Idea (1%) for topc-tasks#330: Do dictation apps learn your contacts' names automatically? | 8 | provisional | https://github.com/topc-social/topc-tasks/issues/330 |
 | 342 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#330: Do dictation apps learn your contacts' names automatically? | 792 | provisional | https://github.com/topc-social/topc-tasks/issues/330 |
+| 343 | 2026-11-21 | Kamal Khatwani | Idea (1%) for topc-tasks#331: Write the stranger-test page and Ideato post for name-smart dictation | 18 | provisional | https://github.com/topc-social/topc-tasks/issues/331 |
+| 344 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#331: Write the stranger-test page and Ideato post for name-smart dictation | 1,732 | provisional | https://github.com/topc-social/topc-tasks/issues/331 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
