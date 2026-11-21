@@ -360,6 +360,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 350 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#332: Weekend-team reel: your weekend startup gets more hands | 1,188 | provisional | https://github.com/topc-social/topc-tasks/issues/332 |
 | 351 | 2026-11-22 | Kamal Khatwani | Idea (1%) for topc-tasks#255: AI-made 25-second reel for Startup #1 Fairsplit (pilot) | 24 | provisional | https://github.com/topc-social/topc-tasks/issues/255 |
 | 352 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#255: AI-made 25-second reel for Startup #1 Fairsplit (pilot) | 2,326 | provisional | https://github.com/topc-social/topc-tasks/issues/255 |
+| 353 | 2026-11-22 | Kamal Khatwani | Idea (1%) for topc-tasks#281: Branded TOPC intro reel on the new brand templates | 8 | provisional | https://github.com/topc-social/topc-tasks/issues/281 |
+| 354 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#281: Branded TOPC intro reel on the new brand templates | 792 | provisional | https://github.com/topc-social/topc-tasks/issues/281 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
