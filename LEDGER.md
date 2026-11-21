@@ -368,6 +368,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 358 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#283: TOPC intro reel, Arc A (Amul), with fast motion and word captions | 1,188 | provisional | https://github.com/topc-social/topc-tasks/issues/283 |
 | 359 | 2026-11-22 | Kamal Khatwani | Idea (1%) for topc-tasks#334: Ideato weekend reel: your weekend idea, a real team | 18 | provisional | https://github.com/topc-social/topc-tasks/issues/334 |
 | 360 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#334: Ideato weekend reel: your weekend idea, a real team | 1,782 | provisional | https://github.com/topc-social/topc-tasks/issues/334 |
+| 361 | 2026-11-22 | Kamal Khatwani | Idea (1%) for topc-tasks#310: Amul Part 1 reel: build it without quitting your job | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/310 |
+| 362 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#310: Amul Part 1 reel: build it without quitting your job | 1,188 | provisional | https://github.com/topc-social/topc-tasks/issues/310 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
