@@ -364,6 +364,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 354 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#281: Branded TOPC intro reel on the new brand templates | 792 | provisional | https://github.com/topc-social/topc-tasks/issues/281 |
 | 355 | 2026-11-22 | Kamal Khatwani | Idea (1%) for topc-tasks#279: Turn TOPC's Instagram brand system into reusable reel and post templates | 40 | provisional | https://github.com/topc-social/topc-tasks/issues/279 |
 | 356 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#279: Turn TOPC's Instagram brand system into reusable reel and post templates | 3,960 | provisional | https://github.com/topc-social/topc-tasks/issues/279 |
+| 357 | 2026-11-22 | Kamal Khatwani | Idea (1%) for topc-tasks#283: TOPC intro reel, Arc A (Amul), with fast motion and word captions | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/283 |
+| 358 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#283: TOPC intro reel, Arc A (Amul), with fast motion and word captions | 1,188 | provisional | https://github.com/topc-social/topc-tasks/issues/283 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
