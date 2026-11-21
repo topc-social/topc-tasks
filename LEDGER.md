@@ -354,6 +354,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 344 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#331: Write the stranger-test page and Ideato post for name-smart dictation | 1,732 | provisional | https://github.com/topc-social/topc-tasks/issues/331 |
 | 345 | 2026-11-22 | Kamal Khatwani | Idea (1%) for topc-tasks#256: AI-made trailer reel: what the Startup #N series is | 14 | provisional | https://github.com/topc-social/topc-tasks/issues/256 |
 | 346 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#256: AI-made trailer reel: what the Startup #N series is | 1,336 | provisional | https://github.com/topc-social/topc-tasks/issues/256 |
+| 347 | 2026-11-22 | Kamal Khatwani | Idea (1%) for topc-tasks#267: AI-made TOPC intro reel: build together, own a piece | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/267 |
+| 348 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#267: AI-made TOPC intro reel: build together, own a piece | 1,188 | provisional | https://github.com/topc-social/topc-tasks/issues/267 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
