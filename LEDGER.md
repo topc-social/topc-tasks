@@ -376,6 +376,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 366 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#336: Write down Billmobi's one-time catch-up for untasked work | 544 | provisional | https://github.com/topc-social/topc-tasks/issues/336 |
 | 367 | 2026-11-22 | Kamal Khatwani | Idea (1%) for topc-tasks#338: Stop Claude from using Kamal's Air browser | 8 | provisional | https://github.com/topc-social/topc-tasks/issues/338 |
 | 368 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#338: Stop Claude from using Kamal's Air browser | 792 | provisional | https://github.com/topc-social/topc-tasks/issues/338 |
+| 369 | 2026-11-22 | Kamal Khatwani | Idea (1%) for topc-tasks#337: Find what Kamal had to repeat to Claude this week | 8 | provisional | https://github.com/topc-social/topc-tasks/issues/337 |
+| 370 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#337: Find what Kamal had to repeat to Claude this week | 792 | provisional | https://github.com/topc-social/topc-tasks/issues/337 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
