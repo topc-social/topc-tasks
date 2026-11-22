@@ -382,6 +382,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 372 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#339: Try one front-desk Claude chat for a day instead of many sessions | 346 | provisional | https://github.com/topc-social/topc-tasks/issues/339 |
 | 373 | 2026-11-22 | Kamal Khatwani | Idea (1%) for topc-tasks#343: Save the TOPC House space call as notes on Ideato and the brain | 6 | provisional | https://github.com/topc-social/topc-tasks/issues/343 |
 | 374 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#343: Save the TOPC House space call as notes on Ideato and the brain | 544 | provisional | https://github.com/topc-social/topc-tasks/issues/343 |
+| 375 | 2026-11-22 | Kamal Khatwani | Idea (1%) for topc-tasks#342: Start TOPC House as a project on Ideato, with its brief | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/342 |
+| 376 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#342: Start TOPC House as a project on Ideato, with its brief | 1,188 | provisional | https://github.com/kamal0808/ideato/pull/191 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
