@@ -386,6 +386,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 376 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#342: Start TOPC House as a project on Ideato, with its brief | 1,188 | provisional | https://github.com/kamal0808/ideato/pull/191 |
 | 377 | 2026-11-23 | Kamal Khatwani | Idea (1%) for topc-tasks#346: Work queue: follow-ups Claude reads, not Ramu pings | 27 | provisional | https://github.com/topc-social/topc-tasks/issues/346 |
 | 378 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#346: Work queue: follow-ups Claude reads, not Ramu pings | 2,673 | provisional | https://github.com/kamal0808/phusphus/pull/52 |
+| 379 | 2026-11-24 | Kamal Khatwani | Idea (1%) for topc-tasks#369: Transcribe audio off the mini with Groq's free Whisper | 27 | provisional | https://github.com/topc-social/topc-tasks/issues/369 |
+| 380 | 2026-11-24 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#369: Transcribe audio off the mini with Groq's free Whisper | 2,673 | provisional | https://github.com/kamal0808/topc/pull/165 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
