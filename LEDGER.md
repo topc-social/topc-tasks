@@ -396,6 +396,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 386 | 2026-11-26 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#380: The TOPC brain learns from every session by itself | 2,673 | provisional | https://github.com/topc-social/topc-tasks/issues/380 |
 | 387 | 2026-11-26 | Kamal Khatwani | Idea (1%) for topc-tasks#378: Keep the Mac mini from running out of memory | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/378 |
 | 388 | 2026-11-26 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#378: Keep the Mac mini from running out of memory | 1,188 | provisional | https://github.com/topc-social/topc-tasks/issues/378 |
+| 389 | 2026-11-26 | Kamal Khatwani | Idea (1%) for topc-tasks#381: Find what people pay for networking, and what they get | 18 | provisional | https://github.com/topc-social/topc-tasks/issues/381 |
+| 390 | 2026-11-26 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#381: Find what people pay for networking, and what they get | 1,782 | provisional | https://github.com/topc-social/topc-tasks/issues/381 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
