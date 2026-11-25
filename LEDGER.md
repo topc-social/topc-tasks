@@ -392,6 +392,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 382 | 2026-11-25 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#379: One Touch ID press on the Air unlocks Bitwarden for Claude | 2,673 | provisional | https://github.com/topc-social/topc-tasks/issues/379 |
 | 383 | 2026-11-25 | Kamal Khatwani | Idea (1%) for topc-tasks#373: Find and install posting skills for X, Instagram, Facebook, GitHub | 60 | provisional | https://github.com/topc-social/topc-tasks/issues/373 |
 | 384 | 2026-11-25 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#373: Find and install posting skills for X, Instagram, Facebook, GitHub | 5,940 | provisional | https://github.com/topc-social/topc-tasks/issues/373 |
+| 385 | 2026-11-26 | Kamal Khatwani | Idea (1%) for topc-tasks#380: The TOPC brain learns from every session by itself | 27 | provisional | https://github.com/topc-social/topc-tasks/issues/380 |
+| 386 | 2026-11-26 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#380: The TOPC brain learns from every session by itself | 2,673 | provisional | https://github.com/topc-social/topc-tasks/issues/380 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
