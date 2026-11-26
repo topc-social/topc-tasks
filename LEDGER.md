@@ -404,6 +404,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 394 | 2026-11-26 | Kamal Khatwani | Work (99%) on #382: Static site previews on free Cloudflare Pages links, not the mini | 1,188 | provisional | https://github.com/kamal0808/topc/pull/171 |
 | 395 | 2026-11-27 | Kamal Khatwani | Idea (1%) for topc-tasks#383: Claude's brain hooks pick the right brain: TOPC, career or Ramu | 12 | provisional | https://github.com/topc-social/topc-tasks/issues/383 |
 | 396 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#383: Claude's brain hooks pick the right brain: TOPC, career or Ramu | 1,188 | provisional | https://github.com/topc-social/topc-tasks/issues/383 |
+| 397 | 2026-11-27 | Kamal Khatwani | Idea (1%) for topc-tasks#384: Kamal's Claude setup and memory survive losing the laptop | 27 | provisional | https://github.com/topc-social/topc-tasks/issues/384 |
+| 398 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#384: Kamal's Claude setup and memory survive losing the laptop | 2,673 | provisional | https://github.com/topc-social/topc-tasks/issues/384 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
