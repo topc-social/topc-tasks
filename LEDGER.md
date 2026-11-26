@@ -400,6 +400,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 390 | 2026-11-26 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#381: Find what people pay for networking, and what they get | 1,782 | provisional | https://github.com/topc-social/topc-tasks/issues/381 |
 | 391 | 2026-11-26 | Kamal Khatwani | Idea (1%) for #350: Move TOPC's sites off Netlify to Cloudflare Pages | 40 | provisional | https://github.com/kamal0808/topc/pull/154 |
 | 392 | 2026-11-26 | Kamal Khatwani | Work (99%) on #350: Move TOPC's sites off Netlify to Cloudflare Pages | 3,960 | provisional | https://github.com/kamal0808/topc/pull/154 |
+| 393 | 2026-11-26 | Kamal Khatwani | Idea (1%) for #382: Static site previews on free Cloudflare Pages links, not the mini | 12 | provisional | https://github.com/kamal0808/topc/pull/171 |
+| 394 | 2026-11-26 | Kamal Khatwani | Work (99%) on #382: Static site previews on free Cloudflare Pages links, not the mini | 1,188 | provisional | https://github.com/kamal0808/topc/pull/171 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
