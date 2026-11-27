@@ -408,6 +408,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 398 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#384: Kamal's Claude setup and memory survive losing the laptop | 2,673 | provisional | https://github.com/topc-social/topc-tasks/issues/384 |
 | 399 | 2026-11-27 | Kamal Khatwani | Idea (1%) for topc-tasks#386: Post 6 helpful Reddit comments on threads that match our ideas | 5 | provisional | https://github.com/topc-social/topc-tasks/issues/386 |
 | 400 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#386: Post 6 helpful Reddit comments on threads that match our ideas | 495 | provisional | https://github.com/topc-social/topc-tasks/issues/386 |
+| 401 | 2026-11-27 | Kamal Khatwani | Idea (1%) for topc-tasks#389: Pick the next tasks for 7 projects with Founderbot | 27 | provisional | https://github.com/topc-social/topc-tasks/issues/389 |
+| 402 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#389: Pick the next tasks for 7 projects with Founderbot | 2,673 | provisional | https://github.com/topc-social/topc-tasks/issues/389 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
