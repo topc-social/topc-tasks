@@ -420,6 +420,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 410 | 2026-11-27 | Kamal Khatwani | Work (99%) on #398: Compare top Claude Code setups and pick up to 5 fixes for ours | 5,940 | provisional | https://github.com/kamal0808/topc/pull/190 |
 | 411 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #400: Claude hands back less, answers shorter and starts lighter | 12 | provisional | https://github.com/kamal0808/topc/pull/191 |
 | 412 | 2026-11-27 | Kamal Khatwani | Work (99%) on #400: Claude hands back less, answers shorter and starts lighter | 1,188 | provisional | https://github.com/kamal0808/topc/pull/191 |
+| 413 | 2026-11-27 | Kamal Khatwani | Idea (1%) for topc-tasks#367: Move what Kamal told ChatGPT about TOPC into TOPC's brain | 27 | provisional | https://github.com/topc-social/topc-tasks/issues/367 |
+| 414 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#367: Move what Kamal told ChatGPT about TOPC into TOPC's brain | 2,673 | provisional | https://github.com/topc-social/topc-tasks/issues/367 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
