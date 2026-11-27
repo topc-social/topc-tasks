@@ -416,6 +416,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 406 | 2026-11-27 | Kamal Khatwani | Work (99%) on #365: TOPC's elevator pitch, the YC way | 544 | provisional | https://github.com/kamal0808/topc/pull/187 |
 | 407 | 2026-11-27 | Kamal Khatwani | Idea (1%) for topc-tasks#399: Claude trusts the Mac mini and stops blocking harmless commands | 8 | provisional | https://github.com/topc-social/topc-tasks/issues/399 |
 | 408 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#399: Claude trusts the Mac mini and stops blocking harmless commands | 792 | provisional | https://github.com/topc-social/topc-tasks/issues/399 |
+| 409 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #398: Compare top Claude Code setups and pick up to 5 fixes for ours | 60 | provisional | https://github.com/kamal0808/topc/pull/190 |
+| 410 | 2026-11-27 | Kamal Khatwani | Work (99%) on #398: Compare top Claude Code setups and pick up to 5 fixes for ours | 5,940 | provisional | https://github.com/kamal0808/topc/pull/190 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
