@@ -422,6 +422,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 412 | 2026-11-27 | Kamal Khatwani | Work (99%) on #400: Claude hands back less, answers shorter and starts lighter | 1,188 | provisional | https://github.com/kamal0808/topc/pull/191 |
 | 413 | 2026-11-27 | Kamal Khatwani | Idea (1%) for topc-tasks#367: Move what Kamal told ChatGPT about TOPC into TOPC's brain | 27 | provisional | https://github.com/topc-social/topc-tasks/issues/367 |
 | 414 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#367: Move what Kamal told ChatGPT about TOPC into TOPC's brain | 2,673 | provisional | https://github.com/topc-social/topc-tasks/issues/367 |
+| 415 | 2026-11-27 | Kamal Khatwani | Idea (1%) for topc-tasks#402: Get the Mac mini back above 20 GB of free disk | 4 | provisional | https://github.com/topc-social/topc-tasks/issues/402 |
+| 416 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#402: Get the Mac mini back above 20 GB of free disk | 346 | provisional | https://github.com/topc-social/topc-tasks/issues/402 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
